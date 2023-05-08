@@ -1,0 +1,24 @@
+.kanban{
+    display: flex;
+    align-items: flex-start;
+
+}
+.kanbanSection{
+    width: 400px;
+    background-color: #383838;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.kanbanTitle{
+    margin-left: 10px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 10px 0 20px; 
+    margin-top: 10px;
+}
+.kanbanContent{
+    margin-left: 10px;
+    margin-top: 10px;
+}
